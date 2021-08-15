@@ -1,0 +1,8 @@
+*{
+    font-size: 1.2rem;
+    font-family: "Archivo", sans-serif;
+    transition: all .3s ease-in-out;
+}
+.name-title{
+    font-family: "Merriweather", serif;
+}
